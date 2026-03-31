@@ -1,10 +1,6 @@
 # Ziad Osama IK - Professional Portfolio
-
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Ziad+Portfolio+Screenshot) 
-*(Note: Replace this image link with an actual screenshot of your site)*
-
 ## 🔗 Live Demo
-**[Click here to view the live website](https://ziad-osama-ik.github.io/Ziad-Ik-Portfolio/)**
+**[https://github.com/Ziad-Osama-Ik/Ziad-Ik-Portfolio](https://ziad-osama-ik.github.io/Ziad-Ik-Portfolio/)**
 
 ## 🚀 Project Overview
 A multi-page personal portfolio website built as the final project for WE Applied Technology School (Grade 2). This site demonstrates a real-world workflow from UI design to cloud deployment, showcasing my skills in frontend development and digital design.
